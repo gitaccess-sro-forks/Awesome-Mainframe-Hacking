@@ -99,6 +99,8 @@ Table of Contents
 * [Video - Exploiting the Mainframe - Z/OS integrity 101 by Mark Wilson & Ray Overby](https://www.youtube.com/watch?v=7UVrF8skbHU)
 * [Video - A Gentle Introduction to Hacking Mainframes by Dan Helton](https://www.youtube.com/watch?v=ZfUBv2Ac29Q)
 * [PDF- Talk - Gibson 101 - Quick Introduction to Hacking Mainframes in 2020](https://null.co.in/event_sessions/2993-gibson-101-quick-introduction-to-hacking-mainframes-in-2020)
+* [Video - Philip Young - Smashing the Mainframe for Fun and Prison Time](https://www.youtube.com/watch?v=SjtyifWTqmc)
+* [So, you want your own mainframe? // Hercules z/Architecture Emulator Tutorial](https://activedefense.us/2018/04/14/so-you-want-your-own-mainframe-hercules-z-architecture-emulator-tutorial/)
 
    
 ## [↑](#table-of-contents) ACF2 Specific references
